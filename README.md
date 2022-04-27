@@ -1,4 +1,4 @@
-## Olá eu sou a Wesley Martins, estudante de Sistemas de Informação 3° Semestre, e aprendiz de CSS,HTML,JavaScript,Angular, React e C#!
+## Olá eu sou a Wesley Martins, estudante de Sistemas de Informação 3° Semestre.
 <div align="center">
   <a href="https://github.com/wesleymartins95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
